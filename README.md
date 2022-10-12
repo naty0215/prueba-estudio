@@ -18,7 +18,6 @@ ejemplo curso github
 <p>Tu segundo párrafo.</p>
 <p>Un enunciado.<br>
 Un segundo enunciado (pegado al primero).</p>
-<img src="https://images.unsplash.com/photo-1535378917042-10a22c95931a">
 <ul>
    <li>Elemento 1</li>
    <li>Elemento 2</li>
